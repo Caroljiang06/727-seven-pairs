@@ -1,3 +1,3 @@
 # 727-seven-pairs
 
-Here is the code by Weishan Jiang
+Here is the code by Weishan Jiang.
